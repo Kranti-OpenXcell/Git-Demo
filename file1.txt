@@ -2,6 +2,7 @@ This is the first file for demo.
 add some more content to file 2-1 = 1
 
 this is chanbge regarfding which are visible for first branch.
+this is chanbge regarfding which are visible for first branch.
 
 i have doing some change here.
 

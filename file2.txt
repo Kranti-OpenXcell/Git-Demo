@@ -8,5 +8,6 @@ I made some chnages here.
 
 also i want to learn about rebase.
 
+I made changes here to understand git /.
 add because checking pull stuff.
 This change is for second branch
