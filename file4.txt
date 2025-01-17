@@ -1,1 +1,2 @@
 Thisi is the initial content of fie4.txt
+second line for file4
